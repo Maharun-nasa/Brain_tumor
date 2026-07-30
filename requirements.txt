@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Core app dependencies
 streamlit==1.39.0
 
@@ -6,7 +7,7 @@ tensorflow-cpu==2.16.2
 numpy==1.26.4
 pillow==10.4.0
 
-# Data science and visualization
+# visualization
 matplotlib==3.8.4
 seaborn==0.13.2
 scikit-learn==1.4.2
