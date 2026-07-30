@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Core app dependencies
 streamlit==1.39.0
 
